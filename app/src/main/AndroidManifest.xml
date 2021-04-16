@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.project.lesson10_recycler_view">
+    package="com.project.simple_wallpaper_project">
 
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
 
@@ -11,8 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Lesson10_recycler_View">
-        <activity android:name=".Activity_second"/>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.project.simple_wallpaper_project.Activity_second"/>
+        <activity android:name="com.project.simple_wallpaper_project.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

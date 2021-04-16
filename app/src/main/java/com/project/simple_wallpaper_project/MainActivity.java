@@ -1,4 +1,4 @@
-package com.project.lesson10_recycler_view;
+package com.project.simple_wallpaper_project;
 
 import android.app.Activity;
 import android.app.Dialog;

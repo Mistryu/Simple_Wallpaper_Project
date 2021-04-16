@@ -1,7 +1,6 @@
-package com.project.lesson10_recycler_view;
+package com.project.simple_wallpaper_project;
 
 import android.app.WallpaperManager;
-import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
