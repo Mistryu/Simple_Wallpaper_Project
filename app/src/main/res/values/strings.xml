@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lesson10_recycler_View</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="set_as_wallpaper">Set as Wallpaper</string>
+    <string name="add_your_own_wallpaper">Add your own wallpaper</string>
+    <string name="choose_an_image">Choose an image</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="your_title_goes_here">Your title goes here</string>
+    <string name="your_description_goes_here">Your description goes here</string>
+    <string name="hello_there">Hello There</string>
+
+    <string-array name="wallpapers">
+        <item>wallpaper 1</item>
+        <item>wallpaper 2</item>
+        <item>testing</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>Description here</item>
+        <item>Description here</item>
+        <item>Description here shall go</item>
+    </string-array>
+</resources>
