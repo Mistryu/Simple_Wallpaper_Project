@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         RecyclerView recyclerView = findViewById(R.id.recyclerView);
 
         //Creating bitmaps from resource images
-        int[] images = {R.drawable.bitmap3, R.drawable.bitmap2, R.drawable.bitmap1};
+        int[] images = {R.drawable.wallpaper1, R.drawable.wallpaper2};
         for (int value : images)
             bitmaps.add(BitmapFactory.decodeStream(getResources().openRawResource(value)));
 

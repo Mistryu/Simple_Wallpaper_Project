@@ -14,12 +14,10 @@
     <string-array name="wallpapers">
         <item>wallpaper 1</item>
         <item>wallpaper 2</item>
-        <item>testing</item>
 
     </string-array>
 
     <string-array name="description">
-        <item>Description here</item>
         <item>Description here</item>
         <item>Description here shall go</item>
     </string-array>
